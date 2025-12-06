@@ -18,6 +18,8 @@ At Npower, I led the architecture for digital solutions serving 3 million+ custo
 
 Earlier in my career, I worked extensively with SMEs and larger enterprises building bespoke software solutions and enterprise applications, as well as working on compliance software for tier-one clients. Most of my work has been in the .NET ecosystem, though I've dabbled in various frontend technologies as the needs arose.
 
+Graduated fronm Aston University in 2007.
+
 ## Technical Interests
 
 - Microservice and distributed architectures
@@ -32,7 +34,6 @@ I'm a believer in pragmatic architecture – the kind that solves real problems 
 
 - Qualified ScrumMaster, though I'm more interested in outcomes than following the playbook
 - TOGAF trained, which is useful context even if you don't use it wholesale
-- When I'm not thinking about systems design, I write the occasional blog post over at [sebharvey.co.uk](https://sebharvey.co.uk)
 
 ## Get in Touch
 
