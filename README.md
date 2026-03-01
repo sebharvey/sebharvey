@@ -1,40 +1,26 @@
-# Hello!
+# Hey there! 👋
 
-I'm Seb, I'm a Senior Engineering Manager at Virgin Atlantic, leading frontend, testing, and API teams across Digital channels including web, mobile, NDC, and loyalty systems.
+I’m Seb – an Engineering Manager at Virgin Atlantic, where I get to work with some brilliant people across our digital channels: web, mobile, and all the behind-the-scenes stuff that keeps the planes (virtually) flying.
 
-## About Me
+## A Bit About Me
 
-I've spent the better part of two decades building and leading engineering teams, with a focus on microservice architectures and API-first design. I'm particularly interested in the intersection of technical excellence and business value, and I believe the best solutions come from teams that understand both the technology and the problem they're solving.
+I genuinely love what I do. There’s something deeply satisfying about helping teams build things that actually work, and watching people grow along the way. I’ve been at this for a while now – moving through engineering, architecture, and into leadership – and I still find it as interesting as ever.
 
-Currently at Virgin Atlantic, I work across digital products, partner integrations (including Delta Airlines), and loyalty systems. Before moving into engineering management, I spent a couple of years as Principal Solution Architect here, leading the architecture practice and driving strategic direction across the enterprise landscape – everything from finance and people systems to digital channels and data integration.
+These days I’m focused on frontend, testing, and API teams here at Virgin Atlantic. Before that I was Principal Solution Architect, which was a great adventure in trying to make architecture feel less like a bureaucratic hurdle and more like something genuinely useful to the people building products.
 
-During that time, I focused on transforming how we approached architecture: moving away from heavy governance towards more collaborative, product-centric ways of working. I championed API-first strategies, established reference architectures, and built out the solution architecture team whilst trying to keep the balance between architectural rigour and delivery pragmatism.
+## Where I’ve Been
 
-## Background
+I’ve had the good fortune of working across a few different worlds – energy, travel, consultancy – which means I’ve seen a lot of different ways of doing things (some great, some less so!). Most of my hands-on background is in .NET and API-first design, with a soft spot for microservices and cloud architecture on Azure.
 
-My career has taken me through several industries – energy (Npower during a major business restructure), travel/airlines, and software consultancy. A common thread has been working at the intersection of architecture and delivery, whether that's designing microservice platforms, establishing architecture practices, or working out how to integrate complex enterprise systems.
+Graduated from Aston University back in 2007, which somehow feels like both yesterday and a very long time ago.
 
-At Npower, I led the architecture for digital solutions serving 3 million+ customers, working on everything from enterprise chatbots to smart metering systems, all whilst navigating the technical challenges of a merger with E.ON. I established TOGAF processes there and built out the Digital Design Authority to provide governance that actually helped rather than hindered delivery.
+## Things I Care About
 
-Earlier in my career, I worked extensively with SMEs and larger enterprises building bespoke software solutions and enterprise applications, as well as working on compliance software for tier-one clients. Most of my work has been in the .NET ecosystem, though I've dabbled in various frontend technologies as the needs arose.
+- Building teams that enjoy their work
+- Architecture that solves real problems (not just looks good on a diagram)
+- API design done well
+- Keeping things pragmatic over perfect
 
-Graduated fronm Aston University in 2007.
+## Say Hello
 
-## Technical Interests
-
-- Microservice and distributed architectures
-- API design and enterprise integration patterns
-- Cloud architecture (Azure)
-- Team leadership and engineering culture
-- Architecture governance without the ceremony
-
-I'm a believer in pragmatic architecture – the kind that solves real problems rather than pursuing perfection for its own sake.
-
-## Other Bits
-
-- Qualified ScrumMaster, though I'm more interested in outcomes than following the playbook
-- TOGAF trained, which is useful context even if you don't use it wholesale
-
-## Get in Touch
-
-Feel free to reach out via [LinkedIn](http://uk.linkedin.com/in/sebharvey/) if you want to chat about architecture, engineering leadership, or airline systems.
+Always happy to chat – find me on [LinkedIn](http://uk.linkedin.com/in/sebharvey/) 😊
